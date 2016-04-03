@@ -4,11 +4,6 @@ Created on Sun Apr 03 12:12:11 2016
 
 @author: IAN
 
-print "Skiddmoore", sm.Match("Skiddmoore")
-
-print "Danniel", nm.Match("Danniel")
-print "Daneil", nm.Match("Daneil")
-
 nm.addValue("Peter")
 nm.addSynonym("David", "Dave")
 nm.addValue("Adam")
